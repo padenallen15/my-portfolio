@@ -121,6 +121,10 @@ header li a {
     font-size: 18px;
   }
 
+  .step-text ul li a {
+    text-decoration: none;
+  }
+
   .grid-container {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
