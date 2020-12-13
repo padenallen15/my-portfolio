@@ -135,7 +135,11 @@ header li a {
     border-radius: 5px;
     font-size: 35px;
     background-color: aquamarine;
-    color: red;
+  }
+
+  .grid-item a {
+    text-decoration: none;
+    color: black;
   }
 
   .grid-item.item-1 {
